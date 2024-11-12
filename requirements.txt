@@ -3,3 +3,4 @@ pandas
 ydata_profiling
 streamlit_pandas_profiling
 pycaret
+pytest
